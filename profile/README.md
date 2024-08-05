@@ -20,7 +20,7 @@ This document is intended to streamline the process of requesting new tools and 
 4. **Approval**: Once approved, the request will be added to the Current Requests section.
 
 ## Current Requests
-Here, you’ll find a list of all the active tool requests. Keep an eye on this section to stay updated.
+Here, you’ll find a list of all the active tool requests. Keep an eye on this section to stay updated on what projects are in the works.
 
 | Request ID | Description | Requester | Date Submitted | Status |
 |------------|-------------|-----------|----------------|--------|
