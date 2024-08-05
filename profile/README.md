@@ -24,9 +24,7 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 
 | Request ID | Description | Requester | Date Submitted | Status |
 |------------|-------------|-----------|----------------|--------|
-| 001        | Inventory Management System | Jane Doe    | 2024-01-15 | In Progress |
-| 002        | Automated Picking Tool      | John Smith  | 2024-01-20 | Under Review |
-| 003        | Real-Time Shipping Tracker  | Sam Wilson  | 2024-02-02 | Pending Approval |
+| 001        | Example Project | Jane Doe    | 2024-01-15 | In Progress |
 
 ## Request Status
 - **Pending Approval**: Awaiting leadership review.
