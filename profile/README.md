@@ -1,6 +1,6 @@
 # DCVA Tool Requests
 
-Welcome to the internal tracking system for tool requests at DCVA. This document serves as the central hub for organizing, tracking, and managing all requests made by leadership for new tools and functionalities. Use this to keep everything on point, or else... well, you know.
+Welcome to the internal tracking system for tool requests at DCVA. This document serves as the central hub for organizing, tracking, and managing all requests made by leadership for new tools and functionalities. Use this to keep everything on point.
 
 ## Table of Contents
 - [Purpose](#purpose)
