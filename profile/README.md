@@ -43,7 +43,7 @@ Keep your communications concise and relevant.
 
 ## Contact
 If you have any questions or need further assistance, please contact:
-- **Tool Development Team Lead**: 
+- **Github Organization Owner**: 
   - **Name**: JT Thompson
   - **Email**: jtthompson@sanmar.com
   - **Phone**: 972-533-6735
