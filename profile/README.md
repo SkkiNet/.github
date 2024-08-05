@@ -11,7 +11,7 @@ Welcome to the internal tracking system for tool requests at DCVA. This document
 - [Contact](#contact)
 
 ## Purpose
-This document is intended to streamline the process of requesting new tools and functionalities within DCVA. By maintaining a centralized list, we ensure transparency, prioritize efficiently, and execute projects effectively. In short, it’s to make sure you don’t forget stuff and I don’t have to remind you, or vice versa.
+This document is intended to streamline the process of requesting new tools and functionalities within DCVA. By maintaining a centralized list, we ensure transparency, prioritize efficiently, and execute projects effectively. In short, it’s to make sure you and I don't forget stuff.
 
 ## Submission Process
 1. **Identify Need**: Determine the necessity for a new tool or functionality. 
