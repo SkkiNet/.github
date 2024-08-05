@@ -14,7 +14,7 @@ Welcome to the internal tracking system for tool requests at DCVA. This document
 This document is intended to streamline the process of requesting new tools and functionalities within DCVA. By maintaining a centralized list, we ensure transparency, prioritize efficiently, and execute projects effectively. In short, it’s to make sure you don’t forget stuff and I don’t have to remind you, or vice versa.
 
 ## Submission Process
-1. **Identify Need**: Determine the necessity for a new tool or functionality. Make sure it’s worth my time.
+1. **Identify Need**: Determine the necessity for a new tool or functionality. 
 2. **Submit Request**: Fill out the [Tool Request Form](#) with all relevant details.
 3. **Review**: Leadership will review the request. Prepare for some questions, because we don’t accept half-baked ideas.
 4. **Approval**: Once approved, the request will be added to the Current Requests section.
@@ -37,16 +37,15 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 
 ## Communication
 For updates on specific requests, or to provide additional information, use the following channels:
-- **Slack**: `#tool-requests`
-- **Email**: tools@3plwarehouse.com
+- **Email**: jtthompson@sanmar.com
 
-Keep your communications concise and relevant. No one likes a long-winded email. Especially me.
+Keep your communications concise and relevant. 
 
 ## Contact
 If you have any questions or need further assistance, please contact:
 - **Tool Development Team Lead**: 
-  - **Name**: Jane Doe
-  - **Email**: jane.doe@3plwarehouse.com
-  - **Phone**: (123) 456-7890
+  - **Name**: JT Thompson
+  - **Email**: jtthompson@sanmar.com
+  - **Phone**: 972-533-6735
 
 Remember, folks: keep this document updated and refer to it regularly. It’s not just here for decoration.
