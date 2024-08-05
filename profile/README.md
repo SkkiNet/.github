@@ -33,12 +33,6 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 - **Completed**: Tool has been developed and deployed.
 - **Rejected**: Request was not approved. Try again, maybe?
 
-## Communication
-For updates on specific requests, or to provide additional information, use the following channels:
-- **Email**: jtthompson@sanmar.com
-
-Keep your communications concise and relevant. 
-
 ## Contact
 If you have any questions or need further assistance, please contact:
 - **Github Organization Owner**: 
