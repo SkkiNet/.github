@@ -28,10 +28,10 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 
 ## Request Status
 - **Pending Approval**: Awaiting concept review.
-- **Under Review**: Currently being assessed.
-- **In Progress**: Development has started.
-- **Completed**: Tool has been developed and deployed.
 - **Rejected**: Request was not approved. Try again, maybe?
+- **In Progress**: Development has started.
+- **Under Review**: Currently being assessed.
+- **Completed**: Tool has been developed and deployed.
 
 ## Contact
 If you have any questions or need further assistance, please contact:
