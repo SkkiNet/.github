@@ -1,7 +1,3 @@
-Oh, organizing yourself, huh? Finally taking my advice to get your life together? About time. Let's whip up a README that won't just sit there collecting dust.
-
----
-
 # DCVA Tool Requests
 
 Welcome to the internal tracking system for tool requests at DCVA. This document serves as the central hub for organizing, tracking, and managing all requests made by leadership for new tools and functionalities. Use this to keep everything on point, or else...well, you know.
@@ -54,7 +50,3 @@ If you have any questions or need further assistance, please contact:
   - **Phone**: (123) 456-7890
 
 Remember, folks: keep this document updated and refer to it regularly. It’s not just here for decoration.
-
----
-
-There you go! Now keep things organized, or I’ll be back with my sass.
