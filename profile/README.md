@@ -7,7 +7,6 @@ Welcome to the internal tracking system for tool requests at DCVA. This document
 - [Submission Process](#submission-process)
 - [Current Requests](#current-requests)
 - [Request Status](#request-status)
-- [Communication](#communication)
 - [Contact](#contact)
 
 ## Purpose
