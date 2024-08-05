@@ -27,7 +27,7 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 | 001        | Example Project | Jane Doe    | 2024-01-15 | In Progress |
 
 ## Request Status
-- **Pending Approval**: Awaiting leadership review.
+- **Pending Approval**: Awaiting concept review.
 - **Under Review**: Currently being assessed.
 - **In Progress**: Development has started.
 - **Completed**: Tool has been developed and deployed.
