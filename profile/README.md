@@ -34,10 +34,4 @@ Here, you’ll find a list of all the active tool requests. Keep an eye on this 
 - **Completed**: Tool has been developed and deployed.
 
 ## Contact
-If you have any questions or need further assistance, please contact:
-- **Github Organization Owner**: 
-  - **Name**: JT Thompson
-  - **Email**: jtthompson@sanmar.com
-  - **Phone**: 972-533-6735
-
-Remember, folks: keep this document updated and refer to it regularly. It’s not just here for decoration.
+If you have any questions or need further assistance, please contact the Organization Administrator
